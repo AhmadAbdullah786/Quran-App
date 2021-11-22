@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/QuranApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/QuranApp/app/src/main/res/drawable/custom_designbuttons.xml" value="0.2203125" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/QuranApp/app/src/main/res/drawable/custom_texts.xml" value="0.2203125" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/QuranApp/app/src/main/res/drawable/ic_baseline_fast_rewind_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/QuranApp/app/src/main/res/drawable/ic_baseline_pause_circle_outline_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/QuranApp/app/src/main/res/layout-small-port/activity_main.xml" value="0.20102564102564102" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/QuranApp/app/src/main/res/layout/activity_audio_player.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/QuranApp/app/src/main/res/layout/activity_audio_quran.xml" value="0.16" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/QuranApp/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/QuranApp/app/src/main/res/layout/activity_pdf_opner.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/QuranApp/app/src/main/res/layout/activity_player.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/QuranApp/app/src/main/res/layout/activity_quran_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/QuranApp/app/src/main/res/layout/activity_saheeh_muslim.xml" value="0.1935185185185185" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/QuranApp/app/src/main/res/layout/activity_saheehpdf.xml" value="0.1935185185185185" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/QuranApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.16" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/QuranApp/app/src/main/res/layout/activity_urdu_translation.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/QuranApp/app/src/main/res/layout/activity_urdupdfopner.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/QuranApp/app/src/main/res/layout/list_item.xml" value="0.20102564102564102" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/QuranApp/app/src/main/res/layout/list_items.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
